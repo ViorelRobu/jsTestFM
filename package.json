@@ -1,0 +1,22 @@
+{
+  "name": "jstestfm",
+  "version": "1.0.0",
+  "description": "udemy code along js testing framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ViorelRobu/jsTestFM.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ViorelRobu/jsTestFM/issues"
+  },
+  "homepage": "https://github.com/ViorelRobu/jsTestFM#readme",
+  "bin": {
+    "tme": "index.js"
+  }
+}
