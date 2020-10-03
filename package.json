@@ -18,5 +18,8 @@
   "homepage": "https://github.com/ViorelRobu/jsTestFM#readme",
   "bin": {
     "tme": "index.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0"
   }
 }
